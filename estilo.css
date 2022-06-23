@@ -1,0 +1,14 @@
+*{
+    background: #757575;
+}
+
+.image1{
+    width: 360px;
+    height: 480px;
+}
+
+.container{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
